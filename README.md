@@ -2,7 +2,7 @@
 
 ## Project information
 
-public/lovable-uploads/Captura de tela de 2025-06-20 23-02-29.png public/lovable-uploads/Captura de tela de 2025-06-20 23-02-22.png
+(public/lovable-uploads/Captura de tela de 2025-06-20 23-02-29.png) (public/lovable-uploads/Captura de tela de 2025-06-20 23-02-22.png)
 
 **DEMO URL**: https://bio.asasdev.com.br
 
