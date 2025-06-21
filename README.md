@@ -2,9 +2,9 @@
 
 ## Project information
 
- ![Texto alternativo](public/lovable-uploads/Captura de tela de 2025-06-20 23-02-22.png)
+ ![Tema Dark](https://raw.githubusercontent.com/asas-dev-web/bio-bloom-gallery/refs/heads/main/public/lovable-uploads/Captura%20de%20tela%20de%202025-06-20%2023-02-22.png)
 
-  ![Texto alternativo](https://raw.githubusercontent.com/asas-dev-web/bio-bloom-gallery/refs/heads/main/public/lovable-uploads/Captura%20de%20tela%20de%202025-06-20%2023-02-29.png)
+  ![Tema Claro](https://raw.githubusercontent.com/asas-dev-web/bio-bloom-gallery/refs/heads/main/public/lovable-uploads/Captura%20de%20tela%20de%202025-06-20%2023-02-29.png)
 
 **DEMO URL**: https://bio.asasdev.com.br
 
