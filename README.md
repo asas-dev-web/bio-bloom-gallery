@@ -3,8 +3,8 @@
 ## Project information: bio page for instagram linktree style
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/asas-dev-web/bio-bloom-gallery/refs/heads/main/public/lovable-uploads/Captura%20de%20tela%20de%202025-06-20%2023-02-22.png" alt="Tema Dark" style="width: 400px; max-width: 100%; margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/asas-dev-web/bio-bloom-gallery/refs/heads/main/public/lovable-uploads/Captura%20de%20tela%20de%202025-06-20%2023-02-29.png" alt="Tema Claro" style="width: 400px; max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/asas-dev-web/bio-bloom-gallery/refs/heads/main/public/lovable-uploads/Captura%20de%20tela%20de%202025-06-20%2023-02-22.png" alt="Tema Dark" style="width: 200px; max-width: 100%; margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/asas-dev-web/bio-bloom-gallery/refs/heads/main/public/lovable-uploads/Captura%20de%20tela%20de%202025-06-20%2023-02-29.png" alt="Tema Claro" style="width: 200px; max-width: 100%;" />
 </p>
 
 **DEMO URL**: https://bio.asasdev.com.br
